@@ -65,7 +65,7 @@ Spigot is a solid choice if you need a balance of performance and plugin support
 # Plugins
 Ok let me give you an view what the average Servers have as main Plugins and yes its compledly free no worries. Im gonna show them off and then im gonna explain what they do, pictures included.
 
-- Here is a list of Plugins i and many others use:
+Here is a list of Plugins i and many others use:
 
 - EssentialsX
 - EssentialsXChat
@@ -87,8 +87,9 @@ It also makes so you can put color in your messages when you type & + the colorc
 
 #### EssentialsXChat
 * And what does EssentialsXChat do now?
-Very simple it makes so you can change how the Chat Message gets Displayed for example this the normal format: <Playername> Message
-So what you can do you can put anything in there like this Playername 》Message
+Very simple it makes so you can change how the Chat Message gets Displayed.
+For example this the normal format: "<Playername> Message".
+So what you can do you can put anything in there like this "Playername 》Message"
 
 #### EssentialsXSpawn
 * But what does EssentialsXSpawn do?
@@ -97,11 +98,11 @@ No worries i got you covered ok so basically it adds a command to teleport the S
 
 
 ### Vault Plugin
-Official Website:
+Official Website: https://www.spigotmc.org/resources/vault.34315/
 A Plugin very essential to the next Plugins that come.
 
 #### Vault
-Vault handles interactions between plugins in relation to certain displaying of stuff to work and it also manages currencies for every plugin of that type.
+* Vault handles interactions between plugins in relation to certain displaying of stuff to work and it also manages currencies for every plugin of that type.
 
 
 
@@ -110,7 +111,7 @@ Official Website: https://luckperms.net/
 Its a Plugin that handles permissions.
 
 #### Luckperms
-Its used to make Ranks and stuff and give players certain permissions for certain ranks / groups.
+* Its used to make Ranks and stuff and give players certain permissions for certain ranks / groups.
 
 
 
@@ -119,7 +120,7 @@ Official Website: https://www.spigotmc.org/resources/tab-1-5-1-21.57806/
 Enhances the Tablist
 
 #### TAB
-Used to show more stuff in the Tablist and Scoreboard and so you can edit it.
+* Used to show more stuff in the Tablist and Scoreboard and so you can edit it.
 
 
 
@@ -129,4 +130,4 @@ Official Wiki: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholder
 Used to show values of plugins in spots where text goes.
 
 #### PlaceholderAPI
-So if you put a Value of a plugin in %% then it showes of as a value.
+* So if you put a Value of a plugin in %% then it showes of as a value.
