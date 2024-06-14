@@ -1,1 +1,1 @@
-java -Xmx1024M -Xms1024M -jar minecraft_server. jar
+java -Xmx1024M -Xms1024M -jar server.jar
