@@ -61,3 +61,22 @@ Support: Smaller community compared to Spigot and Paper.
 ## Conclusion
 For plugin-based servers with a focus on performance, Paper is generally the best option.
 Spigot is a solid choice if you need a balance of performance and plugin support but do not need the extra features of Paper and the extra Performance.
+
+# Plugins
+Ok let me give you an view what the average Servers have as main Plugins and yes its compledly free no worries. Im gonna show them off and then im gonna explain what they do, pictures included.
+
+## EssentialsX
+Official Website: https://essentialsx.net/
+
+What i recommand you is installing **EssentialsX**, **EssentialsXChat** and **EssentialsXSpawn** from there but just download Full relesses and no Dev Builds.
+
+* Ok so what does EssentialsX do?
+It essentialy just adds more usefull commands, the option to vanish and use /gm 1 instead of the way we have it normaly.
+It also makes so you can put color in your messages when you type & + the colorcode number / letter.
+
+* And what does EssentialsXChat do now?
+Very simple it makes so you can change how the Chat Message gets Displayed for example this the normal format: <Playername> Message
+So what you can do you can put anything in there like this Playername 》Message
+
+* But what does EssentialsXSpawn do?
+No worries i got you covered ok so basically it adds a command to teleport the Spawn and if i remember right it also protects the Spawn
