@@ -76,7 +76,7 @@ Here is a list of Plugins i and many others use:
 - PlaceholderAPI
 
 ### Essentials Plugin
-Official Website: https://essentialsx.net/
+##### Official Website: https://essentialsx.net/
 
 What i recommand you is installing **EssentialsX**, **EssentialsXChat** and **EssentialsXSpawn** from there but just download Full relesses and no Dev Builds.
 
@@ -98,7 +98,7 @@ No worries i got you covered ok so basically it adds a command to teleport the S
 
 
 ### Vault Plugin
-Official Website: https://www.spigotmc.org/resources/vault.34315/
+##### Official Website: https://www.spigotmc.org/resources/vault.34315/
 A Plugin very essential to the next Plugins that come.
 
 #### Vault
@@ -107,7 +107,7 @@ A Plugin very essential to the next Plugins that come.
 
 
 ### Luckperms Plugin
-Official Website: https://luckperms.net/
+##### Official Website: https://luckperms.net/
 Its a Plugin that handles permissions.
 
 #### Luckperms
@@ -125,8 +125,8 @@ Enhances the Tablist
 
 
 ### PlaceholderAPI Plugin
-Official Website: https://www.spigotmc.org/resources/placeholderapi.6245/
-Official Wiki: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders
+##### Official Website: https://www.spigotmc.org/resources/placeholderapi.6245/
+##### Official Wiki: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders
 Used to show values of plugins in spots where text goes.
 
 #### PlaceholderAPI
