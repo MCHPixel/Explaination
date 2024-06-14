@@ -65,18 +65,68 @@ Spigot is a solid choice if you need a balance of performance and plugin support
 # Plugins
 Ok let me give you an view what the average Servers have as main Plugins and yes its compledly free no worries. Im gonna show them off and then im gonna explain what they do, pictures included.
 
-## EssentialsX
+- Here is a list of Plugins i and many others use:
+
+- EssentialsX
+- EssentialsXChat
+- EssentialsXSpawn
+- Vault
+- Luckperms
+- TAB
+- PlaceholderAPI
+
+### Essentials Plugin
 Official Website: https://essentialsx.net/
 
 What i recommand you is installing **EssentialsX**, **EssentialsXChat** and **EssentialsXSpawn** from there but just download Full relesses and no Dev Builds.
 
+#### EssentialsX
 * Ok so what does EssentialsX do?
-It essentialy just adds more usefull commands, the option to vanish and use /gm 1 instead of the way we have it normaly.
+It essentialy just adds more usefull commands as it says, the option to vanish and use /gm 1 instead of the way we have it normaly.
 It also makes so you can put color in your messages when you type & + the colorcode number / letter.
 
+#### EssentialsXChat
 * And what does EssentialsXChat do now?
 Very simple it makes so you can change how the Chat Message gets Displayed for example this the normal format: <Playername> Message
 So what you can do you can put anything in there like this Playername 》Message
 
+#### EssentialsXSpawn
 * But what does EssentialsXSpawn do?
 No worries i got you covered ok so basically it adds a command to teleport the Spawn and if i remember right it also protects the Spawn
+
+
+
+### Vault Plugin
+Official Website:
+A Plugin very essential to the next Plugins that come.
+
+#### Vault
+Vault handles interactions between plugins in relation to certain displaying of stuff to work and it also manages currencies for every plugin of that type.
+
+
+
+### Luckperms Plugin
+Official Website: https://luckperms.net/
+Its a Plugin that handles permissions.
+
+#### Luckperms
+Its used to make Ranks and stuff and give players certain permissions for certain ranks / groups.
+
+
+
+### TAB Plugin
+Official Website: https://www.spigotmc.org/resources/tab-1-5-1-21.57806/
+Enhances the Tablist
+
+#### TAB
+Used to show more stuff in the Tablist and Scoreboard and so you can edit it.
+
+
+
+### PlaceholderAPI Plugin
+Official Website: https://www.spigotmc.org/resources/placeholderapi.6245/
+Official Wiki: https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders
+Used to show values of plugins in spots where text goes.
+
+#### PlaceholderAPI
+So if you put a Value of a plugin in %% then it showes of as a value.
