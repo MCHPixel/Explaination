@@ -7,6 +7,7 @@
 Here are all Software types and thier pros an cons:
 
 # 1. Spigot
+![Spigot](https://github.com/MCHPixel/Explaination/assets/169911066/4ef58fde-9bcf-4091-93a2-1e2f746d2579)
 
 ## Pros:
 
@@ -23,6 +24,7 @@ Complexity: May require more technical knowledge to set up and configure optimal
 
 
 # 2. Paper
+![PaperMc](https://github.com/MCHPixel/Explaination/assets/169911066/2ce95977-77d3-41a7-9ac1-b3e625dfdc95)
 
 ## Pros:
 
@@ -40,6 +42,7 @@ Complexity: Advanced configuration options can be overwhelming for beginners.
 
 
 # 3. Bukkit
+![Bukkit](https://github.com/MCHPixel/Explaination/assets/169911066/6be37535-32af-41a7-a110-08dfe5c4dde1)
 
 ## Pros:
 
@@ -57,8 +60,4 @@ Support: Smaller community compared to Spigot and Paper.
 
 ## Conclusion
 For plugin-based servers with a focus on performance, Paper is generally the best option.
-For a more modded experience, Forge or Fabric are preferred, depending on your performance needs and the specific mods you want to use.
-Spigot is a solid choice if you need a balance of performance and plugin support but do not need the extra features of Paper.
-Sponge is ideal if you want to run a server that supports both mods and plugins, though it may be more complex to set up.
-
-![Cool Furry](https://github.com/MCHPixel/Explaination/assets/169911066/76c4a7fc-0262-4d69-9dc8-1774eb634442)
+Spigot is a solid choice if you need a balance of performance and plugin support but do not need the extra features of Paper and the extra Performance.
