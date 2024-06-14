@@ -11,15 +11,15 @@ Here are all Software types and thier pros an cons:
 
 ## Pros:
 
-Performance: Optimized for performance, making it suitable for large servers with many players.
-Compatibility: Widely used and highly compatible with Bukkit plugins.
-Community Support: Strong community with extensive documentation and a wide range of plugins.
-Customization: Allows for significant customization through configuration files and plugin use.
+- Performance: Optimized for performance, making it suitable for large servers with many players.
+- Compatibility: Widely used and highly compatible with Bukkit plugins.
+- Community Support: Strong community with extensive documentation and a wide range of plugins.
+- Customization: Allows for significant customization through configuration files and plugin use.
 
 ## Cons:
 
-Updates: Can sometimes lag behind Minecraft updates, causing a delay in compatibility with new versions.
-Complexity: May require more technical knowledge to set up and configure optimally.
+- Updates: Can sometimes lag behind Minecraft updates, causing a delay in compatibility with new versions.
+- Complexity: May require more technical knowledge to set up and configure optimally.
 
 
 
@@ -28,16 +28,16 @@ Complexity: May require more technical knowledge to set up and configure optimal
 
 ## Pros:
 
-Performance: Even more optimized than Spigot, with additional performance improvements and better handling of high player counts.
-Compatibility: Fully compatible with Spigot and Bukkit plugins.
-Advanced Features: Offers additional configuration options and features not found in Spigot, useful for server administrators.
-Community Support: Active community and strong developer support.
+- Performance: Even more optimized than Spigot, with additional performance improvements and better handling of high player counts.
+- Compatibility: Fully compatible with Spigot and Bukkit plugins.
+- Advanced Features: Offers additional configuration options and features not found in Spigot, useful for server administrators.
+- Community Support: Active community and strong developer support.
 
 
 ## Cons:
 
-Updates: Like Spigot, may experience delays in updating to new Minecraft versions.
-Complexity: Advanced configuration options can be overwhelming for beginners.
+- Updates: Like Spigot, may experience delays in updating to new Minecraft versions.
+- Complexity: Advanced configuration options can be overwhelming for beginners.
 
 
 
@@ -46,15 +46,15 @@ Complexity: Advanced configuration options can be overwhelming for beginners.
 
 ## Pros:
 
-Ease of Use: User-friendly and easy to set up, making it suitable for beginners.
-Compatibility: Large selection of plugins specifically designed for Bukkit.
-Documentation: Extensive documentation and resources available.
+- Ease of Use: User-friendly and easy to set up, making it suitable for beginners.
+- Compatibility: Large selection of plugins specifically designed for Bukkit.
+- Documentation: Extensive documentation and resources available.
 
 ## Cons:
 
-Performance: Less optimized for performance compared to Spigot and Paper.
-Development: No longer actively developed, which means fewer updates and new features.
-Support: Smaller community compared to Spigot and Paper.
+- Performance: Less optimized for performance compared to Spigot and Paper.
+- Development: No longer actively developed, which means fewer updates and new features.
+- Support: Smaller community compared to Spigot and Paper.
 
 
 
