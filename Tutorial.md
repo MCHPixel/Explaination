@@ -138,5 +138,10 @@ Used to show values of plugins in spots where text goes.
 
 
 
-### Worldedit
+### Worldedit Plugin
+##### Official Website: https://enginehub.org/worldedit
+##### Official Wiki: https://worldedit.enginehub.org/en/latest
+You can select things to edit them.
+
+#### Worldedit
 It lets you use an axe to select an area that you can edit and then you can replace, set, change biome and more.
