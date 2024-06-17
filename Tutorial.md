@@ -1,5 +1,3 @@
-> [!NOTE] > Useful information that users should know, even when skimming content.
-
 ## Important Notice
 * Ok so first of all on the list this is optional but i wanted to help you so, here you go so a little tutorial with Pictures they will be marked with a ~ and a number so like this ~1
 
