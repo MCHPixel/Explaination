@@ -76,6 +76,8 @@ Here is a list of Plugins i and many others use:
 - Luckperms
 - TAB
 - PlaceholderAPI
+- Worldedit
+- Worldguard
 
 ### Essentials Plugin
 ##### Official Website: https://essentialsx.net/
@@ -133,3 +135,8 @@ Used to show values of plugins in spots where text goes.
 
 #### PlaceholderAPI
 * So if you put a Value of a plugin in %% then it showes of as a value.
+
+
+
+### Worldedit
+It lets you use an axe to select an area that you can edit and then you can replace, set, change biome and more.
