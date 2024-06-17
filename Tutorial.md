@@ -6,6 +6,8 @@
 
 Here are all Software types and thier pros an cons:
 
+
+
 # 1. Spigot
 ![Spigot](https://github.com/MCHPixel/Explaination/assets/169911066/4ef58fde-9bcf-4091-93a2-1e2f746d2579)
 
