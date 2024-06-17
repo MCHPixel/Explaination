@@ -145,3 +145,13 @@ You can select things to edit them.
 
 #### Worldedit
 It lets you use an axe to select an area that you can edit and then you can replace, set, change biome and more.
+
+
+
+### Worldguard Plugin
+##### Official Website: [Worldedit Website](https://enginehub.org/worldguard)
+##### Official Wiki: [Worldguard Wiki](https://worldguard.enginehub.org/en/latest/)
+Set how players can interact with the world in certain spots.
+
+#### Worldguard
+Lets you set things that can happen in certain areas like mobspawning or pvp and many other things like building or destroying.
