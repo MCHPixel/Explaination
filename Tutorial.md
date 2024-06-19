@@ -155,4 +155,3 @@ Set how players can interact with the world in certain spots.
 
 #### Worldguard
 Lets you set things that can happen in certain areas like mobspawning or pvp and many other things like building or destroying.
-Lets you set things that can happen in certain areas like mobspawning or pvp and many other things like building or destroying.
