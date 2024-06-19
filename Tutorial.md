@@ -92,8 +92,8 @@ It also makes so you can put color in your messages when you type & + the colorc
 #### EssentialsXChat
 * And what does EssentialsXChat do now?
 Very simple it makes so you can change how the Chat Message gets Displayed.
-For example this the normal format: "<Playername> Message".
-So what you can do you can put anything in there like this "Playername 》Message"
+For example this the normal format: "< Playername > Message".
+So what you can do you can put anything in there like this "Playername 》Message", be creative there.
 
 #### EssentialsXSpawn
 * But what does EssentialsXSpawn do?
