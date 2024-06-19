@@ -1,5 +1,5 @@
 ## Important Notice
-* Ok so first of all on the list this is optional but i wanted to help you so, here you go so a little tutorial with Pictures they will be marked with a ~ and a number so like this ~1
+* Those plugins do not belong to me.
 
 ## Explaination
 * Ok so first off all im gonna explain on the start is which software to use and how they will affect in different cases!
