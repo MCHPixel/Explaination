@@ -1,8 +1,5 @@
 # Proxies
-
-## Proxy Versions
-There are 3 Proxy Versions
-
+These are used to connect your Servers together to a Network. Just like Hypixel and all the big servers out there.
 
 # BungeeCord
 
@@ -27,7 +24,7 @@ Cons:
 
 Status:
 
-*Maintained: Yes, BungeeCord is still actively maintained by the Spigot team and the community.
+* Maintained: Yes, BungeeCord is still actively maintained by the Spigot team and the community.
 
 
 
