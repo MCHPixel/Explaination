@@ -26,7 +26,7 @@ Here are all Software types and thier pros an cons:
 
 
 # 2. Paper
-![PaperMc](https://github.com/MCHPixel/Explaination/assets/169911066/2ce95977-77d3-41a7-9ac1-b3e625dfdc95)
+![PaperMc](https://github.com/MCHPixel/ServerSetup/assets/169911066/2ce95977-77d3-41a7-9ac1-b3e625dfdc95)
 
 ## Pros:
 
@@ -44,7 +44,7 @@ Here are all Software types and thier pros an cons:
 
 
 # 3. Bukkit
-![Bukkit](https://github.com/MCHPixel/Explaination/assets/169911066/6be37535-32af-41a7-a110-08dfe5c4dde1)
+![Bukkit](https://github.com/MCHPixel/ServerSetup/assets/169911066/6be37535-32af-41a7-a110-08dfe5c4dde1)
 
 ## Pros:
 
