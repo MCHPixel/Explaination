@@ -29,7 +29,7 @@ Status:
 
 
 # Velocity
-
+https://github.com/MCHPixel/ServerSetup/blob/main/Velocity.png
 
 Overview:
 
