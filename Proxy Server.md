@@ -1,8 +1,10 @@
 # Proxies
 These are used to connect your Servers together to a Network. Just like Hypixel and all the big servers out there.
 
-# BungeeCord
 
+
+# BungeeCord
+![Bungeecord](https://github.com/MCHPixel/ServerSetup/assets/169911066/b1499665-07af-4d64-a1b2-0afdb5fbdaf5)
 
 Overview:
 
@@ -29,7 +31,7 @@ Status:
 
 
 # Velocity
-https://github.com/MCHPixel/ServerSetup/blob/main/Velocity.png
+![Velocity](https://github.com/MCHPixel/ServerSetup/assets/169911066/ff5b34e7-72a0-4c2e-9873-5c919509a52c)
 
 Overview:
 
@@ -53,8 +55,10 @@ Status:
 
 * Maintained: Yes, Velocity is actively developed and maintained, with a strong emphasis on performance and security.
 
-# Waterfall
 
+
+# Waterfall
+![Waterfall](https://github.com/MCHPixel/ServerSetup/assets/169911066/0bec3f59-3601-4050-9de6-912522c875bf)
 
 Overview:
 
@@ -77,6 +81,7 @@ Cons:
 Status:
 
 * Not Maintained: As of recent developments, Waterfall is no longer actively maintained.
+
 
 
 ### Summary
