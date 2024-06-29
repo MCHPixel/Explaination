@@ -18,7 +18,7 @@ Follow the installation instructions to install Java on your system.
 
 Verify the installation by opening a command prompt (CMD) or terminal and typing:
 
-java -version
+´java -version´
 
 
 ## Step 3: Download the Minecraft Server Software
@@ -35,7 +35,7 @@ Open a command prompt (CMD) or terminal and navigate to the server folder.
 
 Start the server for the first time by entering the following command:
 
-(java -Xmx1024M -Xms1024M -jar server.jar nogui)
+´java -Xmx1024M -Xms1024M -jar server.jar nogui´
 
 This command starts the server with 1 GB of RAM allocated. Adjust Xmx and Xms values to allocate more RAM as needed.
 
