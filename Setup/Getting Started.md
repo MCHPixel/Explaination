@@ -62,7 +62,8 @@ Forward port 25565 (default Minecraft port) to the internal IP address of the co
 ## Step 7: Start the Server
 Go back to your command prompt or terminal, navigate to your server folder, and start the server again with the same command:
 
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+´java -Xmx1024M -Xms1024M -jar server.jar nogui´
+
 The server should now start, and you can see it generating the world.
 
 
