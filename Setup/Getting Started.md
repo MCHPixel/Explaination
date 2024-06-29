@@ -1,17 +1,18 @@
-# How to Start Setting Up a Minecraft Server
-Setting up a Minecraft server allows you to create a custom multiplayer world for you and your friends to enjoy. Follow these steps to get your Minecraft server up and running.
-
-## Step 1: Choose Your Hardware
-* Before you start, ensure you have the right hardware to host a Minecraft server.
-* The requirements can vary based on the number of players and mods/plugins you plan to use. As a general guideline:
-
-- CPU: Multi-core processor (e.g., Intel i5 or better)
-- RAM: At least 4 GB for a small server, more for larger servers or heavily modded ones
-- Storage: SSD for faster read/write speeds
-- Network: Stable internet connection with sufficient upload bandwidth
-
-
-## Step 2: Install Java
+| # How to Start Setting Up a Minecraft Server
+| Setting up a Minecraft server allows you to create a custom multiplayer world for you and your friends to enjoy. Follow these steps to get your Minecraft server up and running.
+|
+|
+| ## Step 1: Choose Your Hardware
+| * Before you start, ensure you have the right hardware to host a Minecraft server.
+| * The requirements can vary based on the number of players and mods/plugins you plan to use. As a general guideline:
+|
+| - CPU: Multi-core processor (e.g., Intel i5 or better)
+| - RAM: At least 4 GB for a small server, more for larger servers or heavily modded ones
+| - Storage: SSD for faster read/write speeds
+| - Network: Stable internet connection with sufficient upload bandwidth
+|
+|
+| ## Step 2: Install Java
 Minecraft servers run on Java, so you'll need to install it on your computer, or the maschine.
 Download the latest version of Java from the official Website.
 Follow the installation instructions to install Java on your system.
